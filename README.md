@@ -2,15 +2,15 @@
 
 ## Index
 
-### [1.Message structure](###1.Message-structure)
+### [1.Message structure](#1.Message-structure)
 
-### [2.Type](###2.Type)
+### [2.Type](#2.Type)
 
-### [3.Body](###3.Body)
+### [3.Body](#3.Body)
 
-### [4.Footer](###4.Footer)
+### [4.Footer](#4.Footer)
 
-### [5.Examples](###5.Examples)
+### [5.Examples](#5.Examples)
 
 <br>
 <br>
